@@ -7,6 +7,7 @@
 A web application to upload text files, analyze their **sentiment** and **entities** using **AWS Comprehend**, and visualize results in a friendly dashboard. Built with **Next.js**, **AWS Lambda**, **API Gateway**, **S3**, and **DynamoDB**.
 
 ---
+<img width="1024" height="1024" alt="k2gwiloupnjffrdwdwal" src="https://github.com/user-attachments/assets/ce1ded61-89b6-45d3-b532-fec9d14ae688" />
 
 ## 🚀 Features
 
@@ -93,6 +94,7 @@ Error handling and feedback for failed uploads.
 lambda.tf: IAM roles, Lambda function, S3 permissions
 
 api.tf: API Gateway setup with CORS, Lambda integration, and routes
+<img width="1918" height="919" alt="serverless sentiment" src="https://github.com/user-attachments/assets/070e8c4a-fefa-4d85-8ca4-d3d7eec0b8e7" />
 
 ✅ License
 This project is licensed under the MIT License.
