@@ -9,6 +9,35 @@ A web application to upload text files, analyze their **sentiment** and **entiti
 ---
 <img width="1024" height="1024" alt="k2gwiloupnjffrdwdwal" src="https://github.com/user-attachments/assets/ce1ded61-89b6-45d3-b532-fec9d14ae688" />
 
+Recently, I completed another personal project in the field of DevOps as part of my journey to grow and expand my skill set.
+I built a web application that enables users to upload text files directly from the browser, analyze them using AWS Comprehend, and display results in a user-friendly dashboard.
+
+Throughout the project, I integrated several technologies and AWS services:
+
+Next.js for the frontend
+
+AWS Lambda and API Gateway for the backend
+
+S3 for file storage
+
+DynamoDB for storing analysis results
+
+A serverless architecture with minimal infrastructure management
+
+All deployments are managed with Terraform
+
+The application allows:
+
+Uploading of .txt files directly from the browser
+
+Sentiment analysis (positive, negative, neutral, mixed)
+
+Entity detection (people, organizations, locations, and more)
+
+Clear and visual presentation of results
+
+For me, this isn’t just another project—it’s an important step toward becoming a DevOps expert, with a focus on building and maintaining cloud-based solutions.
+
 ## 🚀 Features
 
 - Upload `.txt` files directly from your browser
